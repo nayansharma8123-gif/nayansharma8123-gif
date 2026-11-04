@@ -16,14 +16,6 @@ I'm an undergraduate student interested in software engineering, backend develop
 
 ---
 
-## 🌍 Open Source Contributions
-
-### [Holidays](https://github.com/vacanza/holidays)
-
-- [#3995 — Fix mixed-script characters in holiday names](https://github.com/vacanza/holidays/pull/3995) — ✅ Merged
-- [#4001 — Fix some holidays Marathi translations](https://github.com/vacanza/holidays/pull/4001) — ✅ Merged
-
----
 
 ## 💻 Tech Stack
 
